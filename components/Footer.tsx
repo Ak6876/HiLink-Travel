@@ -61,7 +61,7 @@ const Footer = () => {
             </div>
         </div>
         <div className='border bg-gray-20'/>
-        <p className='regular-14 w-full text-center text-gray-30 '>2023 Hilink | All Rights Reserved | <a href="#">GitHub</a></p>
+        <p className='regular-14 w-full text-center text-gray-30 '>2023 Hilink | All Rights Reserved | <a href="https://github.com/Ak6876/HiLink-Travel">GitHub</a></p>
       </div>
     </footer>
   )
